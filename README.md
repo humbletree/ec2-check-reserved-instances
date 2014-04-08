@@ -49,7 +49,6 @@ TODO
 ===============
 - Add some sort of sorting, by Availability Zone/instance type
 - Add VPC support
-- Currently only supports US-EAST. Make using other regions easy, perhaps just using an environment variable/internal config variable
 - External config? Is there some standard place to store AWS credentials?
 - Add option to use API to purchase the additional reservations (need to be EXTREMELY careful here, any mistake or miscommunication could cost quite a bit of money)
 - Windows? Not taking Windows reserved instances into account
